@@ -136,7 +136,7 @@ const Index = () => {
 
   const skills = {
     "Technical Skills": [
-      { name: "Oracle Fusion Cloud", level: "Expert" },
+      { name: "Oracle Fusion Cloud", level: "Advanced" },
       { name: "SAP ECC", level: "Advanced" },
       { name: "Salesforce", level: "Advanced" },
       { name: "Power BI", level: "Advanced" },
