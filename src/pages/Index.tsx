@@ -35,6 +35,7 @@ const Index = () => {
     { label: "Years Experience", value: "10+", icon: "📈" },
     { label: "Cost Savings", value: "$540K+", icon: "💰" },
     { label: "Global Reach", value: "90+ Cities", icon: "🌍" },
+    { label: "TESTTTT", value: "TEST", icon: "OOOOO" },
   ];
 
   const experiences = [
