@@ -39,7 +39,7 @@ const Index = () => {
 
   const experiences = [
     {
-      company: "Dover Corporation",
+      company: "Dover Corporation VSG",
       period: "January'22 – April'25",
       role: "Program Manager – Digital Transformation, Central PMO",
       roleDescription: "Led digital transformation initiatives across Fortune 500 multinational divisions, managing complex ERP implementations, automation projects, and strategic technology adoptions. Collaborated with C-suite executives, cross-functional teams, and external vendors to deliver scalable solutions impacting $500M+ portfolio operations.",
